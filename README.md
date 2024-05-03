@@ -1,4 +1,4 @@
-# Credit-Card-Sales
+# Credit-Card-Sales - Power Bi
 Empower stakeholders with a dynamic weekly credit card dashboard, providing instant access to 
 vital performance indicators and trends. Elevate decision-making with real-time insights, 
 ensuring proactive optimization of credit card operations for unparalleled success.
