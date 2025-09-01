@@ -34,3 +34,6 @@ Shared actionable insights to support decision-making.
 Top states: TX, NY, CA (68%)
 
 Activation Rate: 57.5%, Delinquent Rate: 6.06%
+
+Learning Experience
+My confidence in real-world analytics initiatives was strengthened by this project, which also improved my Power BI skills and capacity to derive insights from data.
