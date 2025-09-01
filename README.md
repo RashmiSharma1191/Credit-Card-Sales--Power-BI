@@ -1,8 +1,36 @@
-# Credit-Card-Sales - Power Bi
-Empower stakeholders with a dynamic weekly credit card dashboard, providing instant access to 
-vital performance indicators and trends. Elevate decision-making with real-time insights, 
-ensuring proactive optimization of credit card operations for unparalleled success.
+📊 Credit Card Dashboard – Power BI
+🚀 Project Overview
 
-Engaging in this project has been an incredible chance to delve into data-driven insights and 
-enhance my proficiency in Power BI. Eagerly anticipating future projects and opportunities to 
-continue exploring the dynamic realm of data analytics.
+Developed an interactive Power BI dashboard using transaction and customer data from a SQL database. The dashboard provides real-time insights into revenue, transactions, customer behavior, and credit card performance, empowering stakeholders to make data-driven decisions.
+
+🛠 Tools & Technologies
+
+Power BI (visualization & modeling)
+
+SQL Database (data source)
+
+Power Query & DAX (data cleaning & calculations)
+
+📈 Project Insights
+
+WoW (Week 53, Dec 31): Revenue ↑ 28.8%, transactions & customer count grew significantly.
+
+YTD Overview:
+
+Revenue: 57M, Interest: 8M, Transactions: 46M
+
+Male: 31M, Female: 26M
+
+Blue & Silver cards: 93% of transactions
+
+🏆 Outcomes
+
+Built a dynamic dashboard to track KPIs & trends.
+
+Streamlined data processing for efficient monitoring.
+
+Shared actionable insights to support decision-making.
+
+Top states: TX, NY, CA (68%)
+
+Activation Rate: 57.5%, Delinquent Rate: 6.06%
