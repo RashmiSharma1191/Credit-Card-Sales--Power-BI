@@ -43,7 +43,7 @@ Developed an interactive Power BI dashboard for monitoring revenue, transaction 
 Streamlined data analysis for faster, more accurate performance tracking.
 Provided stakeholders with clear, actionable insights for strategic decision-making.
 
-## 🧩 Visualization Highlights
+## 🧩 Visualization Highlights:
 📈 Dashboard Includes:
 
 Card KPIs: Revenue, Transactions, Activation & Delinquency Rates
@@ -82,7 +82,7 @@ Delinquency Rate
 
 Revenue by Card Type / Gender / State
 
-## 🔗 References
+## 🔗 References:
 
 Microsoft Power BI
 
