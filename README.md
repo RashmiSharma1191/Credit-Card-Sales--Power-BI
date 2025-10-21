@@ -1,39 +1,92 @@
-📊 Credit Card Dashboard – Power BI
-🚀 Project Overview
+# 💳 Credit Card Dashboard — Power BI Project
 
-Developed an interactive Power BI dashboard using transaction and customer data from a SQL database. The dashboard provides real-time insights into revenue, transactions, customer behavior, and credit card performance, empowering stakeholders to make data-driven decisions.
+## 📌 Objective:
 
-🛠 Tools & Technologies
+To empower stakeholders with a dynamic, real-time credit card dashboard, providing instant access to key performance indicators (KPIs) and trends.
+The goal is to enable data-driven decision-making and optimize credit card operations through actionable insights.
 
-Power BI (visualization & modeling)
+## 🧾 Data & Source:
 
-SQL Database (data source)
+Data sourced from a SQL database containing customer and transaction details.
+Cleaned and transformed using Power Query in Power BI.
+Model built with relationships between customer, transaction, and card details.
 
-Power Query & DAX (data cleaning & calculations)
+## 📊 Key Insights (Week 53 – 31st Dec):
 
-📈 Project Insights
+💰 Revenue increased by 28.8% (WoW)
 
-WoW (Week 53, Dec 31): Revenue ↑ 28.8%, transactions & customer count grew significantly.
+💳 Total transaction amount and count both showed a significant rise.
 
-YTD Overview:
+👥 Customer count also increased.
 
-Revenue: 57M, Interest: 8M, Transactions: 46M
+🧾 Year-to-Date Overview (YTD):
 
-Male: 31M, Female: 26M
+Overall Revenue: $57M
 
-Blue & Silver cards: 93% of transactions
+Total Interest: $8M
 
-🏆 Outcomes
+Total Transaction Amount: $46M
 
-Built a dynamic dashboard to track KPIs & trends.
+Male customers: $31M revenue, Female customers: $26M
 
-Streamlined data processing for efficient monitoring.
+Blue & Silver cards contribute to 93% of all transactions.
 
-Shared actionable insights to support decision-making.
+TX, NY & CA states account for 68% of total revenue.
 
-Top states: TX, NY, CA (68%)
+Activation Rate: 57.5%
 
-Activation Rate: 57.5%, Delinquent Rate: 6.06%
+Delinquency Rate: 6.06%
 
-💡Learning Experience:
-My confidence in real-world analytics initiatives was strengthened by this project, which also improved my Power BI skills and capacity to derive insights from data.
+## 🧠 Project Outcomes:
+
+Developed an interactive Power BI dashboard for monitoring revenue, transaction trends, and customer engagement.
+Streamlined data analysis for faster, more accurate performance tracking.
+Provided stakeholders with clear, actionable insights for strategic decision-making.
+
+## 🧩 Visualization Highlights
+📈 Dashboard Includes:
+
+Card KPIs: Revenue, Transactions, Activation & Delinquency Rates
+
+Charts & Visuals:
+
+Revenue by Gender
+
+Card Type Contribution
+
+Transactions by State
+
+Week-over-Week Change Trend
+
+YTD Overview
+
+📸 All visuals were designed in Power BI using data from SQL and Power Query transformations.
+
+## 🧾 Tools Used:
+
+Power BI – Data modeling, DAX calculations, and visualization
+
+SQL Server – Data extraction and integration
+
+Power Query – Data cleaning and transformation
+
+## 🧠 Key Metrics Tracked:
+
+Total Revenue
+
+Total Transactions
+
+Activation Rate
+
+Delinquency Rate
+
+Revenue by Card Type / Gender / State
+
+## 🔗 References
+
+Microsoft Power BI
+
+SQL Server Database
+
+Dashboard Design Best Practices (Microsoft Docs, Medium, YouTube Tutorials)
+
