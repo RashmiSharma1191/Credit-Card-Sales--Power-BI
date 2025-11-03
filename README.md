@@ -54,9 +54,9 @@ Provided stakeholders with clear, actionable insights for strategic decision-mak
 
 ## 👩‍💻 Author
 **Rashmi Sharma**  
-📧 [Mail ID](rashusharma007@gmail.com)
+📧 [Mail ID](mailto:rashusharma007@gmail.com)
 
-🔗 [LinkedIn](www.linkedin.com/in/rashmi-sharma-11nv91)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/rashmi-sharma-11nv91)
 
 
 
