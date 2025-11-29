@@ -27,7 +27,7 @@ Based on the dashboard analysis, the following strategic actions are recommended
 ![Performance-report](https://github.com/RashmiSharma1191/Credit-Card-Sales--Power-BI/blob/main/cc%20performance%20report.jpg)
 
   - Customer Report
-![Customer-report](https://github.com/RashmiSharma1191/Credit-Card-Sales--Power-BI/blob/main/cc%20performance%20report.jpg)
+![Customer-report](https://github.com/RashmiSharma1191/Credit-Card-Sales--Power-BI/blob/main/cc%20customer%20report.jpg)
 
 ## 🧾 Tools Used:
 - Power BI – Data modeling, DAX calculations, and visualization
