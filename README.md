@@ -34,6 +34,12 @@ Based on the dashboard analysis, the following strategic actions are recommended
 - SQL Server – Data extraction and integration
 - Power Query – Data cleaning and transformation
 
+## 🔮 Future Scope
+Potential extensions and enhancements for this dashboard include:
+- Predictive Analytics: Integrating a forecasting model (e.g., using Python/R within Power BI or SQL) to predict Delinquency Rates or Revenue for the upcoming quarter.
+- Customer Segmentation: Implementing an RFM (Recency, Frequency, Monetary) model to segment customers, allowing marketing teams to create highly targeted retention and upsell campaigns.
+- Real-Time Data Flow: Transitioning the data source from scheduled SQL extracts to a live data connection (DirectQuery) for real-time monitoring of transactions and immediate fraud detection alerts.
+  
 ## 🔗 References:
 - Youtube Tutorial
 
